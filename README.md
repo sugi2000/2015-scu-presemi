@@ -5,6 +5,12 @@
 デザイン総合実習III（メディアデザイン）
 プレゼミ（杉本）の資料です。
 
+###公開の手順
+
+- [github](http://github.com/)（ギットハブ）でアカウントを作る
+- [blocksbuilder](http://blockbuilder.org/)でログイン　New → 編集 → Save
+- bl.ockリンクで確認
+
 ###参考資料
 
 [D3入門（スコット・マレイ）](http://ja.d3js.info/alignedleft/tutorials/d3/)
