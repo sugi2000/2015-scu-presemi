@@ -5,11 +5,51 @@
 デザイン総合実習III（メディアデザイン）
 プレゼミ（杉本）の資料です。
 
+###内容
+
+[D3.js](http://d3js.org/)を利用したデータビジュアライゼーションに挑戦します。
+
+D3.jsは、Mike Bostockらが制作したJavaScriptライブラリです。
+Mike Bostockは、元New York Timesのグラフィックエディタです。
+
+###前提知識
+
+下記の基礎知識が必要ですが、やりながら覚えていきましょう。
+
+- HTML
+- CSS
+- SVG
+- JavaScript
+
+###使用するソフトウェア
+
+手軽にローカルでWebサーバを起動できるので、[Chrome Dev Editor](https://chrome.google.com/webstore/detail/chrome-dev-editor-develop/pnoffddplpippgcfjdhbmhkofpnaalpg)を使います。
+
+テキストにあるように、ターミナルで以下のコマンドを入力して、ローカルWebサーバを起動してもOKです。
+
+```
+python -m SimpleHTTPServer 8888
+```
+
 ###公開の手順
 
+制作したプロジェクトは、[bl.ocks.org](http://bl.ocks.org/)に公開します。
+
 - [github](http://github.com/)（ギットハブ）でアカウントを作る
+
+やり方・その１
+
 - [blocksbuilder](http://blockbuilder.org/)でログイン　New → 編集 → Save
 - bl.ockリンクで確認
+
+やり方・その２
+
+- [gist editor](https://gist.github.com/)を使う
+
+やり方・その３
+
+- [ターミナル](http://bost.ocks.org/mike/block/)を使う
+ - homebrew, Nodeのインストールが必要
 
 ###参考資料
 
